@@ -5,6 +5,9 @@ public class array1 {
         System.out.println(num);
         System.out.println(num[0]);
         System.out.println(a);
+        for (int i=0;i<4;i++){
+            System.out.println(num[i]);
+        }
     }
     
 }
